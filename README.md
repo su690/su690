@@ -34,8 +34,9 @@ src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/subhash-kumar-choudhary-620588242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhash-kumar-choudhary-620588242/" height="30" width="40" /></a>
-<a href="https://github.com/su690" target="blank"><img align="center" src="fa-brands fa-github" alt="subhash" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/chysubhash1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Subhash" height="30" width="40" /></a>
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />](https://github.com/su690)
+
+  <a href="https://www.hackerrank.com/profile/chysubhash1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Subhash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
