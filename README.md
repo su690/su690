@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: not funny
 -->
 <img
-src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="mi perfil" data-canonical-src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="max-width: 100%;height: 50%; display: inline-block;" data-target="animated-image.originalImage">
+src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="mi perfil" data-canonical-src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="max-width: 100%;height: 20%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <h1 align="center">Hi 👋, I'm Subhash Kumar Choudhary</h1>
