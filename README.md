@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: not funny
 -->
 <img
-src="https://github.com/su690/su690/blob/main/2112.i301.031.S.m004.c13.UI%20and%20UX%20designers%20concepts%20isometric%20composition.jpg" alt="mi perfil" data-canonical-src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="max-width: 50%;height: 20%; display: inline-block;" data-target="animated-image.originalImage">
+src="https://github.com/su690/su690/blob/main/2112.i301.031.S.m004.c13.UI%20and%20UX%20designers%20concepts%20isometric%20composition.jpg" alt="mi perfil" data-canonical-src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="max-width: 40%;height: 10%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <h1 align="center">Hi 👋, I'm Subhash Kumar Choudhary</h1>
